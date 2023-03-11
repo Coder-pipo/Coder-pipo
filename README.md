@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder-pipo
+- 👋 Hi, I’m Pragna Biswas
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 
