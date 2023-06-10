@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-pipo&label=Profile%20views&color=0e75b6&style=flat" alt="coder-pipo" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Frontend Development**
 
